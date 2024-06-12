@@ -1,3 +1,18 @@
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+env.bak/
+venv.bak/
+*.log
+*.csv
+*.json
+*.sqlite3
+*.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
