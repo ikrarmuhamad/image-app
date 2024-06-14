@@ -9,4 +9,4 @@ requests==2.32.3
 scipy==1.13.1
 Werkzeug==3.0.3
 wrapt==1.14.1
-gunicorn
+gunicorn==20.1.0
